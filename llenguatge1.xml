@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<onlineshop> <!--Etiqueta per a tots els productes-->
+	<jacket> <!--Etiqueta per al primer producte-->
+		<code>NF0A89GS</code>
+		<info> <!--Informació del producte-->
+			<name>Parka de plumón GORE-TEX® 2L McMurdo</name>
+			<description>La parka McMurdo, llamada así en homenaje a un centro de investigaciones en la Antártida, hacer honor a su nombre al ofrecerte una protección completa frente al mal tiempo. Esta nueva versión es un auténtico todoterreno en diseño cálido e impermeable gracias al aislamiento térmico y ligero a base de plumón y a la tecnología GORE-TEX® de dos capas sumamente duradera que te mantendrá seco todo el día mientras te enfrentas a los elementos. Cuenta con muchos detalles prácticos y funcionales como el ribete de pelo sintético desmontable, la cremallera bidireccional con tapeta para que no entre el aire ni la lluvia y muchos bolsillos tanto fuera como dentro de la prenda para llevar tus objetos esenciales protegidos. Sin duda una prenda de invierno única en su categoría.</description>
+			<price>800€</price>
+			<category estilo="LifeStyle"/>
+		</info>
+		<availability>En stock</availability>
+		<image>https://assets.thenorthface.eu/images/t_img/f_auto,h_462,w_462/e_sharpen:60/dpr_2.0/v1731491437/NF0A89GSJK3-HERO/Mens-McMurdo-2L-GORETEX-Down-Parka.jpg</image>
+	</jacket>
+	<boots> <!--Etiqueta per al segon producte-->
+		<code>NF0A83NJ</code>
+		<info> <!--Informació del producte-->
+			<name>Botas urbanas Glenclyffe</name>
+			<description>Inspiradas en las botas de escalada, diseñadas para la exploración urbana. Las botas urbanas Glenclyffe son únicas en su categoría gracias a su diseño que incorpora detalles técnicos de nuestro equipamiento de aproximación, como los tacos de agarre de 6 mm para brindar una gran tracción en todo tipo de terreno, la puntera de protección reforzada y la base del talón de TPU para aportar más estabilidad. La suela exterior de goma Surface CTRL™ mantiene tu pisada firme en terrenos irregulares y superficies resbaladizas, mientras que los modernos detalles metálicos inoxidables ofrecen un ajuste preciso.</description>
+			<price>140€</price>
+			<category estilo="Montaña y senderismo"/>
+		</info>	
+		<availability>En stock</availability>
+		<image>https://assets.thenorthface.eu/images/t_img/f_auto,h_462,w_462/e_sharpen:60/dpr_2.0/v1731591624/NF0A83NJKX7-HERO/Glenclyffe-Urban-Boots.jpg</image>
+	</boots>
+</onlineshop>
