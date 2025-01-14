@@ -1,0 +1,121 @@
+
+{
+    "pokemon": [
+        {
+            "id": "252",
+            "pokedex": {
+                "nom": "Treecko",
+                "tipus": "Planta",
+                "pes": "5 kg",
+                "altura": "0.5 m",
+                "estadistiques_base": {
+                    "ps": "40",
+                    "atac": "45",
+                    "defensa": "35",
+                    "at.especial": "65",
+                    "def.especial": "55",
+                    "velocitat": "70"
+                }
+            },
+            "moviments": [
+                {
+                    "nom": "Destructor",
+                    "descripció": "Destructor causa dany i no té cap efecte secundari.",
+                    "potència": "40",
+                    "contacte": "físic"
+                },
+                {
+                    "nom": "Malicios",
+                    "descripció": "Baixa la defensa del objectiu",
+                    "potència": "-",
+                    "contacte": "estat"
+                },
+                {
+                    "nom": "Follaje",
+                    "descripció": "Destructor causa dany i no té cap efecte secundari.",
+                    "potència": "40",
+                    "contacte": "físic"
+                }
+            ],
+            "imatge": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pokemon.com%2Fes%2Fpokedex%2Ftreecko&psig=AOvVaw0yJvHrqTcrmJ1qa4hfIyXx&ust=1736977776237000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKjtqdWY9ooDFQAAAAAdAAAAABAE",
+            "evolucions": [
+                {
+                    "id": "252",
+                    "nom": "Treecko",
+                    "nivell": "Pokemon base"
+                },
+                {
+                    "id": "253",
+                    "nom": "Grovyle",
+                    "nivell": "16"
+                },
+                {
+                    "id": "254",
+                    "nom": "Sceptile",
+                    "nivell": "36"
+                }
+            ]   
+        },
+        {
+            "id": "445",
+            "pokedex": {
+                "nom": "Garchomp",
+                "tipus": "Dragón/Tierra",
+                "pes": "95 kg",
+                "altura": "1.9 m",
+                "estadistiques_base": {
+                    "ps": "108",
+                    "atac": "130",
+                    "defensa": "95",
+                    "at.especial": "80",
+                    "def.especial": "85",
+                    "velocitat": "102"
+                }
+            },
+            "moviments": [
+                {
+                    "nom": "Garra drac",
+                    "descripció": "Destructor causa dany i no té cap efecte secundari.",
+                    "potència": "80",
+                    "contacte": "físic"
+                },
+                {
+                    "nom": "Dansa drac",
+                    "descripció": "Puja l'atac i la velocitat de l'usuari",
+                    "potència": "-",
+                    "contacte": "estat"
+                },
+                {
+                    "nom": "Terratrèmol",
+                    "descripció": "Destructor causa dany i no té cap efecte secundari.",
+                    "potència": "100",
+                    "contacte": "físic"
+                },
+                {
+                    "nom": "Llançaflames",
+                    "descripció": "Destructor causa dany i pot cremar a l'objectiu.",
+                    "potència": "90",
+                    "contacte": "especial"
+                }
+            ],
+            "imatge": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wikidex.net%2Fwiki%2FGarchomp&psig=AOvVaw1DAQta6z0qSLE4P56lP78e&ust=1736978090469000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODf3M2b9ooDFQAAAAAdAAAAABAE",
+            "evolucions": [
+                {
+                    "id": "443",
+                    "nom": "Gible",
+                    "nivell": "Pokemon base"
+                },
+                {
+                    "id": "444",
+                    "nom": "Gabite",
+                    "nivell": "24"
+                },
+                {
+                    "id": "445",
+                    "nom": "Garchomp",
+                    "nivell": "48"
+                }
+            ]             
+        }
+    ]    
+}
